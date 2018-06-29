@@ -4,3 +4,8 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
+[ Eric Thornton, Dustin Wright, Jack Lin ]
+[ MapTripy ]
+[ A Social travel community web app. Redefining and injecting fun into travel planning. ]
+[ https://github.com/firmpass/maptripy ]
+[ Heroku/Deployment link ]
